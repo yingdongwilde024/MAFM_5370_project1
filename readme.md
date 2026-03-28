@@ -17,12 +17,6 @@ Install required packages via `pip`:
 pip install gymnasium numpy stable-baselines3 matplotlib
 ```
 
-### Clone Repository
-```bash
-git clone <your-repo-url>
-cd <repo-name>
-```
-
 ## Environment Details
 
 ### `DiscreteAssetAllocationEnv`
